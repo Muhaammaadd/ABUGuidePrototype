@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.maak.abuguideprototype.MapActivity" >
+
+    <item
+        android:title="Normal"
+        android:id="@+id/mapTypeNone" />
+
+    <item
+        android:title="Hybrid"
+        android:id="@+id/mapTypeHybrid" />
+
+    <item
+        android:title="Satellite"
+        android:id="@+id/mapTypeSatellite" />
+    
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="google_maps_API_key">AIzaSyCVsXGT2ScTg9vwwOVsNuUyCUeR7Cozsjw</string>
+
+    <string name="app_name">GoogleMapsGooglePlaces</string>
+
+    //main menu items
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_hybrid">Hybrid</string>
+
+
+</resources>
